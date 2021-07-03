@@ -42,7 +42,11 @@ is that the actual attacker is hard to find.
 * #### FTP 
 Software in this category is designed to set up the infected system as an FTP server. An infected system becomes a server hosting all sorts of information, which may include
 illegal content of all types.
+### Examples of Trojan malware attacks
+Trojan malware attacks can inflict a lot of damage. At the same time, Trojans continue to evolve. Here are three examples.
 
+1. **Rakhni Trojan**.This malware has been around since 2013. More recently, it can deliver ransomware or a cryptojacker (allowing criminals to use your device to mine for cryptocurrency) to infected computers. “The growth in coin mining in the final months of 2017 was immense,” the 2018 Internet Security Threat Report notes. “Overall coin-mining activity increased by 34,000 percent over the course of the year.”
+2. **ZeuS/Zbot**.This banking Trojan is another oldie but baddie. ZeuS/Zbot source code was first released in 2011. It uses keystroke logging — recording your keystrokes as you log into your bank account, for instance — to steal your credentials and perhaps your account balance as well.
 ### Detecting Trojans and Viruses
 
 * [clamav](https://github.com/Cisco-Talos/clamav) – is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
@@ -64,3 +68,17 @@ illegal content of all types.
 * [The-MALWARE-Repo](https://github.com/Da2dalus/The-MALWARE-Repo) - A repository full of malware samples.
 
 * [Rafel-Rat](https://github.com/swagkarna/Rafel-Rat) - Android Rat Written in Java With WebPanel For Controlling Victims...Hack Android Devices
+
+### How to help protect against Trojans
+* Computer security begins with installing and running an internet security suite. Run periodic diagnostic scans with your software. You can set it up so the program runs scans automatically during regular intervals.
+* Update your operating system’s software as soon as updates are made available from the software company. Cybercriminals tend to exploit security holes in outdated software programs. In addition to operating system updates, you should also check for updates on other software that you use on your computer.
+* Protect your accounts with complex, unique passwords. Create a unique password for each account using a complex combination of letters, numbers, and symbols.
+* Keep your personal information safe with firewalls.
+* Back up your files regularly. If a Trojan infects your computer, this will help you to restore your data.
+* Be careful with email attachments. To help stay safe, scan an email attachment first. 
+* A lot of things you should do come with a corresponding thing not to do — like, do be careful with email attachments and don’t click on suspicious email attachments. Here are some more don’ts.
+* Don’t visit unsafe websites. Some internet security software will alert you that you’re about to visit an unsafe site, such as Norton Safe Web.
+* Don’t open a link in an email unless you’re confident it comes from a legitimate source. In general, avoid opening unsolicited emails from senders you don’t know.
+* Don’t download or install programs if you don’t have complete trust in the publisher.
+* Don’t click on pop-up windows that promise free programs that perform useful tasks.
+* Don’t ever open a link in an email unless you know exactly what it is.
